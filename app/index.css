@@ -22,6 +22,7 @@ a {
     max-width: 1200px;
     margin: 0 auto;
 }
+
 .row {
     display: flex;
     justify-content: space-around;
@@ -38,7 +39,7 @@ a {
     border-radius: 3px;
     margin: 10px 0;
     padding: 5px;
-    border: 1px solid rgba(0,0,0,0.43);
+    border: 1px solid rgba(0, 0, 0, 0.43);
     font-size: 16px;
     width: 80%;
 }
@@ -123,7 +124,7 @@ a {
 }
 
 .button:hover:enabled {
-    background: linear-gradient(#1a1a1a,#0a0a0a);
+    background: linear-gradient(#1a1a1a, #0a0a0a);
     color: #fff;
     text-decoration: none;
 }
@@ -132,3 +133,15 @@ a {
     transform: translateY(1px);
 }
 
+.reset {
+    border: none;
+    background: transparent;
+    color: #d0021b;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+.reset:hover {
+    cursor: pointer;
+}
