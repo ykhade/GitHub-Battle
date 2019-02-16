@@ -19,4 +19,4 @@ Builds the bundle file via Webpack.
 
 ### `npm deploy`
 
-Will initiate the Firebase hosting process. Requires a Firebase account.
+Will initiate the Github pages hosting process. Can be configured for Firebase hosting aswell.
