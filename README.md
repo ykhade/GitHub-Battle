@@ -1,6 +1,6 @@
 # GitHub-Battle
 
-========
+
 
 #### Here is my GitHub-Battle Repo where you can watch two Github users duke it out and find the most popular repositories. 
 
