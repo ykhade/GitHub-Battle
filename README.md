@@ -2,7 +2,7 @@
 
 
 
-#### Here is my GitHub-Battle Repo where you can watch two Github users duke it out and find the most popular repositories. 
+#### Here is my GitHub-Battle Repo where you can choose two Github users and have them duke it out and declare a winner! Also you can find the most popular repositories by language. 
 
 ## Check out the live site [here](https://ykhade.github.io/GitHub-Battle/)
 
